@@ -3,4 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## NOTICE: As of June 2022, my README.md is still in construction. Sorry!
+## NOTICE: As of July 2022, my README.md is still in construction. Sorry!
+
+<p align="center">
+  <img src="https://i.imgur.com/1DrBZ7p.gif" alt="Loading"/>
+</p>
+
+<h4 align="center">Software Engineer Brylle is still being processed, please wait...</h4>
+
